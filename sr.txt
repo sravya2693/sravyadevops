@@ -1,0 +1,2 @@
+this file is created for demo purpose
+/usr/bin/bash: wq: command not found
